@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="02a6b872-93cf-49f0-a0ed-3593f02c02b6" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Constant.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Constant/Constant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4009">
+              <caret line="224" column="43" lean-forward="false" selection-start-line="224" selection-start-column="43" selection-end-line="224" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Decision.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Decision/Decision.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.dev.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webpack.dev.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModalView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Constant/ModalView/ModalView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="constant.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/redux/actions/constant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="53" lean-forward="false" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModalView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Decision/ModalView/ModalView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="48" column="73" lean-forward="false" selection-start-line="48" selection-start-column="73" selection-end-line="48" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promiseMiddleware.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/redux/middleware/promiseMiddleware.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reducers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/redux/reducers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setValueTempDefault</find>
+      <find>GET_VARIABLELIB_INFO_FAIL</find>
+      <find>GET_VARIABLELIB_INFO_REQUEST</find>
+      <find>getVariableLibInfo1</find>
+      <find>valueTemp0</find>
+      <find>handleAdd</find>
+      <find>modify</find>
+      <find>add</find>
+      <find>data</find>
+      <find>console.log(this.props.decision.clickNode)</find>
+      <find>请求成功</find>
+      <find>this.handle</find>
+      <find>handleAdd1</find>
+      <find>modifyVariableLibDecision</find>
+      <find>handleChange2</find>
+      <find>SET_DATA_INPUT2</find>
+      <find>SET_TEMPKEY_HANDLE</find>
+      <find>setInputValue2</find>
+      <find>handleClickCurd</find>
+      <find>isWitchNode===&quot;1&quot;</find>
+      <find>isWitchNode===&quot;2&quot;</find>
+      <find>ModalView</find>
+      <find>Form</find>
+      <find>state</find>
+      <find>placeholder</find>
+      <find>//</find>
+      <find>defaultValue</find>
+      <find>Data</find>
+      <find>这里</find>
+      <find>setProjectAddName1</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/redux/actions/permission.js" />
+        <option value="$PROJECT_DIR$/src/redux/actions/permissionRole.js" />
+        <option value="$PROJECT_DIR$/src/redux/actions/userInfo.js" />
+        <option value="$PROJECT_DIR$/src/redux/actions/userInfo1.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/constant.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/getInfo.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/grade.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/login.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/permission.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/permissionUserInfo.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/permissionUserInfoRole.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/projectInfo.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/ReduxDemo.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/rolePermission.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/userInfo1.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/variableItem.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/variableLib.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers.js" />
+        <option value="$PROJECT_DIR$/src/redux/actions/grade.js" />
+        <option value="$PROJECT_DIR$/src/redux/actions/projectInfo.js" />
+        <option value="$PROJECT_DIR$/mock/mock.js" />
+        <option value="$PROJECT_DIR$/src/redux/actions/beforeGrade.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/beforeGrade.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable/EditableCell/EditableCell2.js" />
+        <option value="$PROJECT_DIR$/src/redux/actions/beforeDecision.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/beforeDecision.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/MyContent.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/LeftSide/MenuRoute/RuleMenu/ModalView/ModalView.js" />
+        <option value="$PROJECT_DIR$/src/redux/actions/variableItem.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/decision.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/permissionRole.js" />
+        <option value="$PROJECT_DIR$/src/redux/reducers/script.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Script/Script.js" />
+        <option value="$PROJECT_DIR$/src/redux/actions/decision.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable1/MyTable1.js" />
+        <option value="$PROJECT_DIR$/webpack.common.config.js" />
+        <option value="$PROJECT_DIR$/webpack.dev.config.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Decision/ModalView/ModalView.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Grade/ModalView/ModalView.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Permission/PermissionForm/PermissionForm.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/RolePermission/PermissionForm/PermissionForm.js" />
+        <option value="$PROJECT_DIR$/src/redux/actions/variableLib.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Constant/ModalView/ModalView.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable1/EditableCell/EditableCell3.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable1/antvTest/antvTest6.js" />
+        <option value="$PROJECT_DIR$/src/css/App.css" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Grade/Grade.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Constant/Constant.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Decision/Decision.js" />
+        <option value="$PROJECT_DIR$/src/pages/Home/Down/LeftSide/MenuRoute/RuleMenu/RuleMenu.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1448" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="mock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Muban" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="LeftSide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="LeftSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MenuRoute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="LeftSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MenuRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="PermissionMenu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="LeftSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MenuRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="PermissionMenu" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="LeftSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MenuRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="RuleMenu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="LeftSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MenuRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="RuleMenu" type="462c0819:PsiDirectoryNode" />
+              <item name="ContextMenu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="LeftSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MenuRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="RuleMenu" type="462c0819:PsiDirectoryNode" />
+              <item name="ModalView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="LeftSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MenuRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="RuleMenu" type="462c0819:PsiDirectoryNode" />
+              <item name="Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyBreadCrumb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Constant" type="462c0819:PsiDirectoryNode" />
+              <item name="ModalView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Decision" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Decision" type="462c0819:PsiDirectoryNode" />
+              <item name="ModalView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Grade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Grade" type="462c0819:PsiDirectoryNode" />
+              <item name="ModalView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Mytable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Mytable" type="462c0819:PsiDirectoryNode" />
+              <item name="EditableCell" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Mytable1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Mytable1" type="462c0819:PsiDirectoryNode" />
+              <item name="antvTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Mytable1" type="462c0819:PsiDirectoryNode" />
+              <item name="EditableCell" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Permission" type="462c0819:PsiDirectoryNode" />
+              <item name="PermissionForm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="RolePermission" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="RolePermission" type="462c0819:PsiDirectoryNode" />
+              <item name="PermissionForm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Down" type="462c0819:PsiDirectoryNode" />
+              <item name="RightSide" type="462c0819:PsiDirectoryNode" />
+              <item name="MyContent" type="462c0819:PsiDirectoryNode" />
+              <item name="ContentRoute" type="462c0819:PsiDirectoryNode" />
+              <item name="Script" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Head" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Head" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Head" type="462c0819:PsiDirectoryNode" />
+              <item name="Logout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+              <item name="Head" type="462c0819:PsiDirectoryNode" />
+              <item name="MyMenu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="NotFound" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="ToLogin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="ToLogin" type="462c0819:PsiDirectoryNode" />
+              <item name="Login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redux" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redux" type="462c0819:PsiDirectoryNode" />
+              <item name="middleware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="redux" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rule-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rule-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="E:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.4.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\hwanpennWorkspace\rule-engine\src\pages\Home\Down\RightSide\MyContent\ContentRoute\Constant\ModalView" />
+      <recent name="E:\hwanpennWorkspace\rule-engine\public" />
+      <recent name="E:\hwanpennWorkspace\rule-engine\public\img" />
+      <recent name="E:\hwanpennWorkspace\rule-engine\src\pages\Home" />
+      <recent name="E:\hwanpennWorkspace\rule-engine\src\pages\Home\Down\RightSide\MyContent\ContentRoute\Mytable1\antvTest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\hwanpennWorkspace\rule-engine\src\pages\Home\Head\img" />
+      <recent name="E:\hwanpennWorkspace\rule-engine\src\pages\Home\Down\RightSide\MyContent\ContentRoute\Mytable1\DecisionTree" />
+      <recent name="E:\hwanpennWorkspace\rule-engine\src\pages\Home\Down\RightSide\MyContent\ContentRoute" />
+      <recent name="E:\hwanpennWorkspace\rule-engine\src\pages\Home\Down\LeftSide\MenuRoute" />
+      <recent name="E:\hwanpennWorkspace\rule-engine\src\pages\temp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02a6b872-93cf-49f0-a0ed-3593f02c02b6" name="Default" comment="" />
+      <created>1515031681801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515031681801</updated>
+      <workItem from="1515031682974" duration="23243000" />
+      <workItem from="1515115509017" duration="23440000" />
+      <workItem from="1515373804939" duration="65313000" />
+      <workItem from="1515632644673" duration="25718000" />
+      <workItem from="1515720981581" duration="13020000" />
+      <workItem from="1515978783404" duration="8178000" />
+      <workItem from="1516065463482" duration="6362000" />
+      <workItem from="1516158424997" duration="4396000" />
+      <workItem from="1516237674110" duration="7954000" />
+      <workItem from="1516324535979" duration="1735000" />
+      <workItem from="1516583631435" duration="1420000" />
+      <workItem from="1516586977417" duration="15362000" />
+      <workItem from="1516670447081" duration="12397000" />
+      <workItem from="1516755917109" duration="20479000" />
+      <workItem from="1516842908108" duration="22070000" />
+      <workItem from="1516929799161" duration="11732000" />
+      <workItem from="1517189696978" duration="22601000" />
+      <workItem from="1517274316578" duration="24355000" />
+      <workItem from="1517361043102" duration="25135000" />
+      <workItem from="1517447496335" duration="20309000" />
+      <workItem from="1517879847042" duration="33619000" />
+      <workItem from="1517971629240" duration="22793000" />
+      <workItem from="1518052479501" duration="28725000" />
+      <workItem from="1518139097597" duration="22435000" />
+      <workItem from="1518306687797" duration="270000" />
+      <workItem from="1518310944904" duration="27422000" />
+      <workItem from="1518397945728" duration="26466000" />
+      <workItem from="1518508423725" duration="1622000" />
+      <workItem from="1518605140725" duration="5311000" />
+      <workItem from="1519035876600" duration="5000" />
+      <workItem from="1519192552221" duration="6199000" />
+      <workItem from="1519434018206" duration="26395000" />
+      <workItem from="1519626604397" duration="148000" />
+      <workItem from="1519653376877" duration="3989000" />
+      <workItem from="1519953308753" duration="8980000" />
+      <workItem from="1520212367393" duration="29671000" />
+      <workItem from="1520298759351" duration="8364000" />
+      <workItem from="1520471563675" duration="10897000" />
+      <workItem from="1520560186785" duration="9914000" />
+      <workItem from="1520817069317" duration="10396000" />
+      <workItem from="1520903676421" duration="1349000" />
+      <workItem from="1520990182987" duration="22357000" />
+      <workItem from="1521076858061" duration="32121000" />
+      <workItem from="1521422342048" duration="34910000" />
+      <workItem from="1521507835063" duration="26596000" />
+      <workItem from="1521593035875" duration="25856000" />
+      <workItem from="1521680222989" duration="25859000" />
+      <workItem from="1521768514996" duration="15893000" />
+      <workItem from="1522026441359" duration="52845000" />
+      <workItem from="1522200020031" duration="21918000" />
+      <workItem from="1522289132125" duration="6313000" />
+      <workItem from="1522371967234" duration="1307000" />
+      <workItem from="1522631327540" duration="21084000" />
+      <workItem from="1522717666411" duration="24953000" />
+      <workItem from="1522804109666" duration="29361000" />
+      <workItem from="1523150154562" duration="26012000" />
+      <workItem from="1523235874791" duration="19734000" />
+      <workItem from="1523322992713" duration="25136000" />
+      <workItem from="1523409010114" duration="31433000" />
+      <workItem from="1523495848482" duration="48276000" />
+      <workItem from="1523867218621" duration="4249000" />
+      <workItem from="1523948000324" duration="34745000" />
+      <workItem from="1524100621728" duration="45462000" />
+      <workItem from="1524446549650" duration="44092000" />
+      <workItem from="1524618556186" duration="44605000" />
+      <workItem from="1525222595196" duration="8578000" />
+      <workItem from="1525655452862" duration="2783000" />
+      <workItem from="1525741949600" duration="1307000" />
+      <workItem from="1525831142944" duration="832000" />
+      <workItem from="1525933304902" duration="601000" />
+      <workItem from="1527576177164" duration="1646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1321053000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1448" y="-8" width="1456" height="916" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18688293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32253087" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39814815" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32253087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mock/mock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="62" column="72" lean-forward="false" selection-start-line="62" selection-start-column="72" selection-end-line="62" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/LeftSide/MenuRoute/RuleMenu/ModalView/ModalView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="67" column="78" lean-forward="true" selection-start-line="67" selection-start-column="78" selection-end-line="67" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/variableItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="98" column="32" lean-forward="false" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/permission.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2100">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/permissionUserInfoRole.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-409">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/permissionUserInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/permissionRole.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="70" column="45" lean-forward="true" selection-start-line="70" selection-start-column="45" selection-end-line="70" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/permissionUserInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-404">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/permissionUserInfoRole.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-746">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/rolePermission.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/permissionRole.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="105" column="53" lean-forward="true" selection-start-line="105" selection-start-column="53" selection-end-line="105" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-codemirror/lib/Codemirror.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/App1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Script/Script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="57" column="125" lean-forward="false" selection-start-line="57" selection-start-column="125" selection-end-line="57" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.common.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers/decision.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3439">
+          <caret line="231" column="31" lean-forward="false" selection-start-line="231" selection-start-column="16" selection-end-line="231" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/decision.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="65" column="32" lean-forward="false" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/hwanpennrepository/tensorflow/tensorflow/examples/tutorials/mnist/fully_connected_feed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1425">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Constant/ModalView/ModalView1.js" />
+    <entry file="file://$PROJECT_DIR$/static/MyTable.39088700966bbbb21aea.js" />
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable/MyTable1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="114" column="43" lean-forward="true" selection-start-line="114" selection-start-column="43" selection-end-line="114" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable/EditableCell/EditableCell1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="115" column="69" lean-forward="false" selection-start-line="115" selection-start-column="66" selection-end-line="115" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable/EditableCell/EditableCell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2166">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Grade/ModalView/ModalView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="83" column="55" lean-forward="false" selection-start-line="83" selection-start-column="55" selection-end-line="83" selection-end-column="55" />
+          <caret line="89" column="63" lean-forward="false" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
+          <caret line="95" column="63" lean-forward="false" selection-start-line="95" selection-start-column="63" selection-end-line="95" selection-end-column="63" />
+          <caret line="113" column="54" lean-forward="false" selection-start-line="113" selection-start-column="54" selection-end-line="113" selection-end-column="54" />
+          <caret line="119" column="50" lean-forward="false" selection-start-line="119" selection-start-column="50" selection-end-line="119" selection-end-column="50" />
+          <caret line="120" column="53" lean-forward="false" selection-start-line="120" selection-start-column="53" selection-end-line="120" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Permission/PermissionForm/PermissionForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" column="104" lean-forward="false" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
+          <caret line="24" column="113" lean-forward="false" selection-start-line="24" selection-start-column="113" selection-end-line="24" selection-end-column="113" />
+          <caret line="28" column="112" lean-forward="false" selection-start-line="28" selection-start-column="112" selection-end-line="28" selection-end-column="112" />
+          <caret line="32" column="104" lean-forward="false" selection-start-line="32" selection-start-column="104" selection-end-line="32" selection-end-column="104" />
+          <caret line="39" column="112" lean-forward="false" selection-start-line="39" selection-start-column="112" selection-end-line="39" selection-end-column="112" />
+          <caret line="43" column="112" lean-forward="false" selection-start-line="43" selection-start-column="112" selection-end-line="43" selection-end-column="112" />
+          <caret line="47" column="112" lean-forward="false" selection-start-line="47" selection-start-column="112" selection-end-line="47" selection-end-column="112" />
+          <caret line="51" column="104" lean-forward="false" selection-start-line="51" selection-start-column="104" selection-end-line="51" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/RolePermission/PermissionForm/PermissionForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="104" lean-forward="false" selection-start-line="20" selection-start-column="104" selection-end-line="20" selection-end-column="104" />
+          <caret line="28" column="104" lean-forward="false" selection-start-line="28" selection-start-column="104" selection-end-line="28" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/variableLib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="156" column="19" lean-forward="false" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable1/EditableCell/EditableCell2.js" />
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable1/MyTable1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="146" column="12" lean-forward="false" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable1/EditableCell/EditableCell3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2755">
+          <caret line="260" column="14" lean-forward="false" selection-start-line="260" selection-start-column="14" selection-end-line="260" selection-end-column="14" />
+          <folding>
+            <element signature="e#1873#2756#0" expanded="false" />
+            <element signature="e#2784#3628#0" expanded="false" />
+            <element signature="e#5822#6586#0" expanded="false" />
+            <element signature="e#7076#7566#0" expanded="false" />
+            <element signature="e#18783#23671#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Mytable1/antvTest/antvTest6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7828">
+          <caret line="535" column="25" lean-forward="false" selection-start-line="535" selection-start-column="25" selection-end-line="535" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3629">
+          <caret line="191" column="16" lean-forward="false" selection-start-line="191" selection-start-column="1" selection-end-line="191" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Permission/Permission.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3325">
+          <caret line="185" column="45" lean-forward="true" selection-start-line="185" selection-start-column="45" selection-end-line="185" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/RolePermission/RolePermission.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2451">
+          <caret line="139" column="51" lean-forward="true" selection-start-line="139" selection-start-column="51" selection-end-line="139" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Grade/Grade.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="91" column="32" lean-forward="false" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/LeftSide/MenuRoute/RuleMenu/RuleMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3895">
+          <caret line="219" column="0" lean-forward="false" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Constant/Constant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4009">
+          <caret line="224" column="43" lean-forward="false" selection-start-line="224" selection-start-column="43" selection-end-line="224" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Constant/ModalView/ModalView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/middleware/promiseMiddleware.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/reducers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/redux/actions/constant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="53" lean-forward="false" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Decision/ModalView/ModalView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="48" column="73" lean-forward="false" selection-start-line="48" selection-start-column="73" selection-end-line="48" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Home/Down/RightSide/MyContent/ContentRoute/Decision/Decision.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.dev.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

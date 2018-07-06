@@ -1,0 +1,194 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+.logoNew {
+  width: 130px;
+  height: 25px;
+  margin-top: 13px;
+  margin-left: 43px;
+}
+.logo1 {
+  width: 120px;
+  height: 31px;
+  background: rgba(255, 77, 79, 0);
+  margin: 9px 28px 9px 0;
+  float: left;
+}
+.logo {
+  width: 120px;
+  height: 31px;
+  background: rgba(255,255,255,.2);
+  margin: 9px 28px 9px 0;
+  float: left;
+}
+.nameCss {
+  float: right;
+  height: 50px;
+  margin-top: -8px;
+  color: wheat;
+  /*margin-right: -25px;*/
+}
+.iconCss {
+  float: right;
+  height: 50px;
+  margin-top: -8px;
+  color: wheat;
+  margin-left: 5px;
+  margin-right: -25px;
+}
+.loading {
+  width: 50px;
+  height: 60px;
+  text-align: center;
+  /*font-size: 10px;*/
+  position:fixed;
+  left:50%;
+  top:50%;
+  margin-top:-30px;
+  margin-left:-25px;
+}
+.MyAlign {
+  text-align: right;
+}
+.MyAlign1 {
+  text-align: right;
+  margin-bottom: 10px;
+}
+.fuwenben{
+  height: 472px;
+  background: #f0f2f5;
+}
+.fuwenbenWeiz{
+  height: 499px;
+  padding-top: 20px;
+  padding-left: 25px;
+  width: 1028px;
+}
+/*.ReactCodeMirror{*/
+  /*height: 472px;*/
+  /*padding-top: 20px;*/
+  /*padding-left: 25px;*/
+  /*width: 1028px;*/
+/*}*/
+.ReactCodeMirror{
+  height: 472px;
+  padding-top: 8px;
+  padding-left: 8px;
+  width: 1062px;
+}
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+.login-form-button {
+  width: 100%;
+}
+.logining {
+  margin-left: 41%;
+  margin-top: 16%;
+}
+.hideIcon{
+  display:none
+}
+.inputHideBorder{
+  border: none;
+  outline: none;
+}
+.editable-cell {
+  position: relative;
+}
+
+.editable-cell-input-wrapper,
+.editable-cell-text-wrapper {
+  padding-right: 24px;
+}
+
+.editable-cell-text-wrapper {
+  padding: 5px 24px 5px 5px;
+}
+
+.editable-cell-icon,
+.editable-cell-icon-check {
+  position: absolute;
+  right: 0;
+  width: 20px;
+  cursor: pointer;
+}
+
+.editable-cell-icon {
+  line-height: 18px;
+  /*display: none;*/
+}
+
+.editable-cell-icon-check {
+  line-height: 28px;
+}
+
+.editable-cell:hover .editable-cell-icon {
+  display: inline-block;
+}
+
+.editable-cell-icon:hover,
+.editable-cell-icon-check:hover {
+  color: #108ee9;
+}
+
+.editable-add-btn {
+  margin-bottom: 8px;
+}
+
+.node-container{
+  width: 200px;
+  height: 100px;
+  border: 1px solid #999;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.node-container1{
+  width: 200px;
+  height: 30px;
+  border: 1px solid #999;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.node-container .node-container-title{
+  color: white;
+  padding-left: 10px;
+  line-height: 48px;
+  height: 60px;
+}
+.node-container .node-container-success{
+  background: #228ACC;
+}
+.node-container .node-container-fail{
+  background: #FF0030;
+}
+.node-container .node-container-list{
+  background: white;
+  padding-left: 10px;
+  height: 40px;
+  line-height: 40px;
+}
+.node-container .node-delete{
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  z-index: 10;
+}
+.text-primary {
+  color: #337ab7;
+}
+.node-container{
+  width: 200px;
+  height: 30px;
+  border: 1px solid #999;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.tableBackground{
+  background: #b9d3e8;
+}
